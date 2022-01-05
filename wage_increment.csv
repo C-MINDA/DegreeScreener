@@ -1,0 +1,287 @@
+"year","industry2","Wage.Increment"
+2000,"Accommodation And Food Services",5
+2000,"Administrative And Support Services",4.1
+2000,"Community, Social And Personal Services",8.9
+2000,"Construction",2.1
+2000,"Financial And Insurance Services",11.6
+2000,"Information And Communications",10.4
+2000,"Manufacturing",5.6
+2000,"Professional Services",9
+2000,"Real Estate Services",5.3
+2000,"Transportation And Storage",7.6
+2000,"Wholesale And Retail Trade",5.8
+2001,"Accommodation And Food Services",0.2
+2001,"Administrative And Support Services",1.8
+2001,"Community, Social And Personal Services",0.8
+2001,"Construction",-1.5
+2001,"Financial And Insurance Services",3
+2001,"Information And Communications",1.3
+2001,"Manufacturing",0.2
+2001,"Professional Services",1.3
+2001,"Real Estate Services",0.2
+2001,"Transportation And Storage",3.5
+2001,"Wholesale And Retail Trade",1.3
+2002,"Accommodation And Food Services",0.2
+2002,"Administrative And Support Services",1.1
+2002,"Community, Social And Personal Services",1.6
+2002,"Construction",-0.9
+2002,"Financial And Insurance Services",0.8
+2002,"Information And Communications",-0.1
+2002,"Manufacturing",0.6
+2002,"Professional Services",0.7
+2002,"Real Estate Services",-0.1
+2002,"Transportation And Storage",-5.5
+2002,"Wholesale And Retail Trade",1
+2003,"Accommodation And Food Services",0
+2003,"Administrative And Support Services",0.7
+2003,"Community, Social And Personal Services",1.9
+2003,"Construction",-0.1
+2003,"Financial And Insurance Services",-1
+2003,"Information And Communications",1.2
+2003,"Manufacturing",1.8
+2003,"Professional Services",2.4
+2003,"Real Estate Services",0.7
+2003,"Transportation And Storage",3.4
+2003,"Wholesale And Retail Trade",1.7
+2004,"Accommodation And Food Services",1.9
+2004,"Administrative And Support Services",2.1
+2004,"Community, Social And Personal Services",5
+2004,"Construction",1.5
+2004,"Financial And Insurance Services",5.4
+2004,"Information And Communications",3.7
+2004,"Manufacturing",3.1
+2004,"Professional Services",6
+2004,"Real Estate Services",1.2
+2004,"Transportation And Storage",4
+2004,"Wholesale And Retail Trade",3.6
+2005,"Accommodation And Food Services",3.4
+2005,"Administrative And Support Services",3.6
+2005,"Community, Social And Personal Services",3.2
+2005,"Construction",1.9
+2005,"Financial And Insurance Services",6.7
+2005,"Information And Communications",5.3
+2005,"Manufacturing",3.7
+2005,"Professional Services",5.1
+2005,"Real Estate Services",2.4
+2005,"Transportation And Storage",7
+2005,"Wholesale And Retail Trade",3.9
+2006,"Accommodation And Food Services",3.9
+2006,"Administrative And Support Services",3.7
+2006,"Community, Social And Personal Services",5.1
+2006,"Construction",3.7
+2006,"Financial And Insurance Services",5.8
+2006,"Information And Communications",6.2
+2006,"Manufacturing",4.2
+2006,"Professional Services",6.8
+2006,"Real Estate Services",3.2
+2006,"Transportation And Storage",3.1
+2006,"Wholesale And Retail Trade",4.6
+2007,"Accommodation And Food Services",4.7
+2007,"Administrative And Support Services",3.9
+2007,"Community, Social And Personal Services",6.1
+2007,"Construction",5.1
+2007,"Financial And Insurance Services",10.4
+2007,"Information And Communications",5.8
+2007,"Manufacturing",4.7
+2007,"Professional Services",7.9
+2007,"Real Estate Services",4.8
+2007,"Transportation And Storage",8.8
+2007,"Wholesale And Retail Trade",5.4
+2008,"Accommodation And Food Services",4
+2008,"Administrative And Support Services",3.3
+2008,"Community, Social And Personal Services",4.3
+2008,"Construction",4.1
+2008,"Financial And Insurance Services",8.1
+2008,"Information And Communications",5.5
+2008,"Manufacturing",3.4
+2008,"Professional Services",6.4
+2008,"Real Estate Services",3.3
+2008,"Transportation And Storage",1.6
+2008,"Wholesale And Retail Trade",3.8
+2009,"Accommodation And Food Services",0.1
+2009,"Administrative And Support Services",0.9
+2009,"Community, Social And Personal Services",1.3
+2009,"Construction",1.6
+2009,"Financial And Insurance Services",-1.7
+2009,"Information And Communications",-1
+2009,"Manufacturing",-0.3
+2009,"Professional Services",-0.5
+2009,"Real Estate Services",-0.5
+2009,"Transportation And Storage",-5.1
+2009,"Wholesale And Retail Trade",0.4
+2010,"Accommodation And Food Services",3.3
+2010,"Administrative And Support Services",4.3
+2010,"Community, Social And Personal Services",7
+2010,"Construction",4.4
+2010,"Financial And Insurance Services",10
+2010,"Information And Communications",4.7
+2010,"Manufacturing",4.9
+2010,"Professional Services",8.1
+2010,"Real Estate Services",4.8
+2010,"Transportation And Storage",2.5
+2010,"Wholesale And Retail Trade",5.4
+2011,"Accommodation And Food Services",4.5
+2011,"Administrative And Support Services",3.7
+2011,"Community, Social And Personal Services",5
+2011,"Construction",4.2
+2011,"Financial And Insurance Services",9.1
+2011,"Information And Communications",4.6
+2011,"Manufacturing",4.1
+2011,"Professional Services",5.6
+2011,"Real Estate Services",5.5
+2011,"Transportation And Storage",7.4
+2011,"Wholesale And Retail Trade",4.6
+2012,"Accommodation And Food Services",3.4
+2012,"Administrative And Support Services",4.7
+2012,"Community, Social And Personal Services",3.9
+2012,"Construction",3.7
+2012,"Financial And Insurance Services",4.4
+2012,"Information And Communications",4.7
+2012,"Manufacturing",3.7
+2012,"Professional Services",3.8
+2012,"Real Estate Services",4.4
+2012,"Transportation And Storage",1.7
+2012,"Wholesale And Retail Trade",4.5
+2013,"Accommodation And Food Services",5.3
+2013,"Administrative And Support Services",6.6
+2013,"Community, Social And Personal Services",5.3
+2013,"Construction",5.2
+2013,"Financial And Insurance Services",5.3
+2013,"Information And Communications",5.5
+2013,"Manufacturing",4.4
+2013,"Professional Services",4.9
+2013,"Real Estate Services",6.4
+2013,"Transportation And Storage",6
+2013,"Wholesale And Retail Trade",5.3
+2014,"Accommodation And Food Services",3.7
+2014,"Administrative And Support Services",8.6
+2014,"Community, Social And Personal Services",5.4
+2014,"Construction",3.8
+2014,"Financial And Insurance Services",5.9
+2014,"Information And Communications",4.7
+2014,"Manufacturing",4.9
+2014,"Professional Services",4
+2014,"Real Estate Services",6.8
+2014,"Transportation And Storage",3.8
+2014,"Wholesale And Retail Trade",4.4
+2015,"Accommodation And Food Services",3.2
+2015,"Administrative And Support Services",6.5
+2015,"Community, Social And Personal Services",5.1
+2015,"Construction",3.1
+2015,"Financial And Insurance Services",5.4
+2015,"Information And Communications",2.5
+2015,"Manufacturing",3.1
+2015,"Professional Services",3.7
+2015,"Real Estate Services",4.1
+2015,"Transportation And Storage",4.3
+2015,"Wholesale And Retail Trade",3.3
+2016,"Accommodation And Food Services",2.3
+2016,"Administrative And Support Services",5
+2016,"Community, Social And Personal Services",3.7
+2016,"Construction",2.1
+2016,"Financial And Insurance Services",3.9
+2016,"Information And Communications",2.7
+2016,"Manufacturing",1.7
+2016,"Professional Services",3.3
+2016,"Real Estate Services",3.4
+2016,"Transportation And Storage",5.1
+2016,"Wholesale And Retail Trade",2.7
+2017,"Accommodation And Food Services",3.8
+2017,"Administrative And Support Services",4.3
+2017,"Community, Social And Personal Services",4.3
+2017,"Construction",2
+2017,"Financial And Insurance Services",4.2
+2017,"Information And Communications",3.9
+2017,"Manufacturing",4.2
+2017,"Professional Services",4.3
+2017,"Real Estate Services",3.1
+2017,"Transportation And Storage",3.3
+2017,"Wholesale And Retail Trade",3.3
+2018,"Accommodation And Food Services",3.9
+2018,"Administrative And Support Services",4.5
+2018,"Community, Social And Personal Services",4.9
+2018,"Construction",2.8
+2018,"Financial And Insurance Services",6.3
+2018,"Information And Communications",5
+2018,"Manufacturing",4.2
+2018,"Professional Services",5.4
+2018,"Real Estate Services",5
+2018,"Transportation And Storage",4.4
+2018,"Wholesale And Retail Trade",4.1
+2019,"Accommodation And Food Services",4.2
+2019,"Administrative And Support Services",3.9
+2019,"Community, Social And Personal Services",4
+2019,"Construction",2.6
+2019,"Financial And Insurance Services",5.6
+2019,"Information And Communications",4.9
+2019,"Manufacturing",3.1
+2019,"Professional Services",4.6
+2019,"Real Estate Services",3.9
+2019,"Transportation And Storage",3.3
+2019,"Wholesale And Retail Trade",3.5
+2020,"Accommodation And Food Services",0.4
+2020,"Administrative And Support Services",0.9
+2020,"Community, Social And Personal Services",1.9
+2020,"Construction",0.4
+2020,"Financial And Insurance Services",3.4
+2020,"Information And Communications",2.8
+2020,"Manufacturing",1.3
+2020,"Professional Services",0.3
+2020,"Real Estate Services",0.8
+2020,"Transportation And Storage",-3
+2020,"Wholesale And Retail Trade",2
+2021,"Accommodation And Food Services",2.61102732478133
+2021,"Administrative And Support Services",3.71692671888901
+2021,"Community, Social And Personal Services",4.21068050911617
+2021,"Construction",1.9609517743107
+2021,"Financial And Insurance Services",4.76867493947885
+2021,"Information And Communications",3.71266291309565
+2021,"Manufacturing",3.03946006553444
+2021,"Professional Services",4.20475359623182
+2021,"Real Estate Services",2.94369938772648
+2021,"Transportation And Storage",3.17811509326509
+2021,"Wholesale And Retail Trade",3.33494270950809
+2022,"Accommodation And Food Services",2.47146177236075
+2022,"Administrative And Support Services",3.52463308610702
+2022,"Community, Social And Personal Services",3.68471850818432
+2022,"Construction",1.9181381996409
+2022,"Financial And Insurance Services",4.35329766682769
+2022,"Information And Communications",3.41814284093628
+2022,"Manufacturing",2.69315442595112
+2022,"Professional Services",3.5553679070354
+2022,"Real Estate Services",2.79381389678389
+2022,"Transportation And Storage",2.46940673561217
+2022,"Wholesale And Retail Trade",3.06355746242216
+2023,"Accommodation And Food Services",2.50442405177494
+2023,"Administrative And Support Services",3.48704626665448
+2023,"Community, Social And Personal Services",3.58079591572848
+2023,"Construction",2.00845238289594
+2023,"Financial And Insurance Services",4.3853074692883
+2023,"Information And Communications",3.41754703738277
+2023,"Manufacturing",2.64886737589808
+2023,"Professional Services",3.4686253377522
+2023,"Real Estate Services",2.82761223059623
+2023,"Transportation And Storage",2.33019699109191
+2023,"Wholesale And Retail Trade",3.05116850172387
+2024,"Accommodation And Food Services",2.55554002768332
+2024,"Administrative And Support Services",3.48815267047397
+2024,"Community, Social And Personal Services",3.5828909074156
+2024,"Construction",2.09111589120315
+2024,"Financial And Insurance Services",4.4822405317453
+2024,"Information And Communications",3.46682374571456
+2024,"Manufacturing",2.67040617523948
+2024,"Professional Services",3.5059273956267
+2024,"Real Estate Services",2.88117054059415
+2024,"Transportation And Storage",2.33370550325572
+2024,"Wholesale And Retail Trade",3.08668606734651
+2025,"Accommodation And Food Services",2.56955640065883
+2025,"Administrative And Support Services",3.4771055796484
+2025,"Community, Social And Personal Services",3.55226704395556
+2025,"Construction",2.1247504421983
+2025,"Financial And Insurance Services",4.49978212747426
+2025,"Information And Communications",3.47074217201874
+2025,"Manufacturing",2.65907141274356
+2025,"Professional Services",3.48332069433841
+2025,"Real Estate Services",2.89563764529712
+2025,"Transportation And Storage",2.29274158851782
+2025,"Wholesale And Retail Trade",3.08596612165582
